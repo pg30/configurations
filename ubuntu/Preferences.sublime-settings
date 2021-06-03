@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Monaco/monaco-dark.tmTheme",
+	"font_face": "monaco",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"remember_open_files": false,
+	"theme": "Adaptive.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
