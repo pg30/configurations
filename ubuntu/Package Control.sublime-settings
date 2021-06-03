@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"C++ Completions",
+		"Monaco",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Theme - Soda SolarizedDark"
+	]
+}
