@@ -47,6 +47,7 @@ Plug 'preservim/nerdcommenter'
 call plug#end()
 
 "let g:NERDCreateDefaultMappings=0
+let g:ycm_global_ycm_extra_conf='/home/pranay/.vim/.ycm_extra_conf.py'
 
 colorscheme gruvbox
 set background=dark
@@ -123,4 +124,3 @@ let g:lightline = {
 
 :autocmd InsertEnter * set cul
 :autocmd InsertLeave * set nocul
-
