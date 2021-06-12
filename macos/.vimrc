@@ -11,7 +11,7 @@ set cindent
 set autoread
 set nu
 set nowrap
-set clipboard=unnamedplus
+set clipboard=unnamed
 set smartcase
 set noswapfile
 set nobackup
@@ -21,6 +21,7 @@ set incsearch
 set mouse=a
 set laststatus=2
 set noshowmode
+set backspace=indent,eol,start
 
 filetype plugin on
 
@@ -124,3 +125,5 @@ let g:lightline = {
 
 :autocmd InsertEnter * set cul
 :autocmd InsertLeave * set nocul
+
+
